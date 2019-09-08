@@ -30,3 +30,4 @@ _ReSharper*/
 [Mm]akefile*
 lib/
 config.pri
+build*
